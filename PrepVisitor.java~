@@ -1,0 +1,19 @@
+package hw2;
+
+
+
+public class PrepVisitor extends GJDepthFirst<Something, somedin> {
+
+    
+    
+}
+
+
+
+
+public class methodRecord {
+
+    private String id;
+    private String return_type;
+    private ArrayList<String> parameter
+}

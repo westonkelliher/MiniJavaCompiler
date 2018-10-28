@@ -1,0 +1,12 @@
+package hw2;
+
+public class TypeCheckException extends RunTimeException {
+
+    public TypeCheckException(){
+	super();
+    }
+
+    public TypeCheckException(String s) {
+	super(s);
+    }
+}
